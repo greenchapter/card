@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.green('           👨🏻 Thomas Ott'),
   handle: chalk.white('greenchapter'),
-  work: chalk.green('Lead Frontend Developer at Kaiser X Labs'),
+  work: chalk.green('Lead Frontend Engineer at Kaiser X Labs'),
   opensource: chalk.grey('Working on a upcoming emoji-reactions library 🎹'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('greenchapter'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~greenchapter'),
