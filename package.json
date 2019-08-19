@@ -16,8 +16,7 @@
     "build": "node build.js",
     "release": "standard-version",
     "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run dev"
   },
   "keywords": [
     "card",
