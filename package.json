@@ -1,6 +1,6 @@
 {
   "name": "greenchapter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A personal card for Thomas Ott 👨🏻 (@greenchapter)",
   "main": "/bin/card.js",
   "bin": {
